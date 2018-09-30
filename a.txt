@@ -1,7 +1,5 @@
 nova linha
 conteudo
 adcionando git
-<<<<<<< HEAD
 adcionando
-=======
->>>>>>> cd24031f38a61a900005a864234e2af30ceedb87
+nova modificação 1
